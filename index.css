@@ -5,10 +5,10 @@
     color: black;
 }
 body{
-    background :black;
+    background :rgb(41, 59, 49);
     display: flex;
     justify-content: center;    
-   
+   align-items: center;
     height: 100vh;
 }
 .container {
